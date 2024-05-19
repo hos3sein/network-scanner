@@ -4,7 +4,7 @@ ip = IP()
 
 # ip.show()
 
-
+#its for fucking check
 
 # destination ip address
 target_ip = '192.168.1.1/24'
